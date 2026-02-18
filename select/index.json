@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ラストハンチ",
+  "base_artist": "レトロリロン",
+  "createdAt": "2026-02-18T20:02:56.623722Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラストハンチ",
+      "artist": "retroriron",
+      "has_synced": false,
+      "path": "select/01_ラストハンチ_retroriron.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラストハンチ",
+      "artist": "レトロリロン",
+      "has_synced": false,
+      "path": "select/pl_01_ラストハンチ_レトロリロン.txt"
+    }
+  ]
+}
